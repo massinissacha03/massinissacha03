@@ -13,26 +13,11 @@ Je suis **Massinissa Chabane**, un étudiant en informatique passionné par la c
 - 🌍 **Langues** : Français (natif), Anglais (courant), Suédois (débutant)
 - ⚡ **Qualités** : Adaptabilité, apprentissage rapide, rigueur
 
-## 🛠️ Projets phares
-
-- **[Détecteur de Mensonge](https://github.com/massinissacha03/detecteur-de-mensonge)**  
-  - Analyse faciale pour estimer la véracité via pouls et clignements.  
-  - Technologies : Python, OpenCV, NumPy.
-
-- **[Jeu Cascadia](https://github.com/massinissacha03/cascadia)**  
-  - Version numérique du jeu de société avec interface graphique.  
-  - Technologies : Java, interfaces graphiques.
-
-- **[Site Vétérinaire](https://github.com/massinissacha03/site-veterinaire)**  
-  - Site web dynamique avec gestion de base de données.  
-  - Technologies : Flask, SQL, Python, HTML, CSS.
-
-👉 Découvre plus sur mon [portfolio](https://massinissacha03.github.io) !
 
 ## 📫 Me contacter
 
 - 📧 Email : [massinissa.chabane@outlook.com](mailto:massinissa.chabane@outlook.com)
-- 🔗 LinkedIn : [massinissa.chabane](https://linkedin.com/in/massinissa-chabane)
+- 🔗 LinkedIn : [massinissa.chabane](https://www.linkedin.com/in/massinissa-chabane19/)
 - 💬 Je suis ouvert aux collaborations et opportunités en alternance !
 
 
