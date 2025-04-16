@@ -7,9 +7,9 @@ Je suis **Massinissa Chabane**, un étudiant en informatique passionné par la c
 - 🎓 Étudiant en Master Informatique, avec une solide base en programmation.
 - 💻 **Compétences** :
   - Langages : Python, Java, C, SQL, JavaScript, Haskell
-  - Outils/Frameworks : Flask, Pandas, NumPy, PostgreSQL, Git, Wireshark
+  - Outils/Frameworks : Angular , Flask, Pandas, NumPy, PostgreSQL, Git, Wireshark
   - Protocoles : DHCP, DNS, HTTP, FTP
-  - Initiation : TensorFlow, Angular
+  - Initiation : TensorFlow
 - 🌍 **Langues** : Français, Anglais (avancé), Suédois (débutant)
 - ⚡ **Qualités** : Adaptabilité, apprentissage rapide, rigueur
 
