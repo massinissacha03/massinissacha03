@@ -2,7 +2,19 @@
 
 
 
-<img src="https://github.com/massinissacha03.png" width="180" style="border-radius:50%" alt="Avatar" />
+<svg width="180" height="180" viewBox="0 0 180 180" aria-label="Avatar Massinissa">
+  <defs>
+    <clipPath id="avatarMask">
+      <circle cx="90" cy="90" r="90"/>
+    </clipPath>
+  </defs>
+  <image
+    href="https://github.com/massinissacha03.png?size=180"
+    width="180" height="180"
+    clip-path="url(#avatarMask)"
+  />
+</svg>
+
 
 <h2>Bonjour, je suis <b>Massinissa</b></h2>
 
@@ -78,7 +90,7 @@ Intérêt marqué pour la **data** (pipelines, APIs, analyse). Ouvert aux opport
 ![Bison](https://img.shields.io/badge/Bison-6E4C13?style=for-the-badge)
 
 
-<summary><b>J’apprends</b></summary>
+<summary><b>J’apprends / j’approfondis</b></summary>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
