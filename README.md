@@ -78,7 +78,7 @@ Intérêt marqué pour la **data** (pipelines, APIs, analyse). Ouvert aux opport
 ![Bison](https://img.shields.io/badge/Bison-6E4C13?style=for-the-badge)
 
 
-<summary><b>J’apprends / j’approfondis</b></summary>
+<summary><b>J’apprends</b></summary>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
