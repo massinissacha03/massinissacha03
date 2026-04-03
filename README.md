@@ -5,7 +5,6 @@
 <img src="https://github.com/massinissacha03.png?size=180" width="180" height="180" style="border-radius: 50%;" alt="Massinissa Chabane"/>
 
 ### 🎓 Étudiant en Master Informatique – ARIAS (Orléans)
-### 💼 À la recherche d'une alternance M2 (Septembre 2026)
 
 [![Email](https://img.shields.io/badge/Email-massinissa.chabane@outlook.com-0EA5E9?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:massinissa.chabane@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-massinissa--chabane19-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massinissa-chabane19)
@@ -20,10 +19,8 @@
 Étudiant passionné en **Master Informatique – ARIAS (Applications Réparties, Intelligence Artificielle et Sécurité)** à l'Université d'Orléans, je conçois des solutions fiables et élégantes — du **mobile** au **web** jusqu'aux **backends**.
 
 - 🔭 Actuellement en M1 ARIAS avec un intérêt marqué pour la **data** (pipelines, APIs, analyse)
-- 💼 Stage chez **JCDecaux** (Été 2025) - Développement full-stack Spring Boot & Angular
 - 🌱 J'apprends actuellement **dbt**, **Snowflake**, **Vue.js**, **Django**
-- 🎯 Objectif : Alternance M2 en développement ou data engineering (Sept. 2026)
-- 💡 Projets en production : **Stokna** (app Flutter commerciale)
+- ⚡ Passionné par le développement full-stack et l'IA
 
 ---
 
@@ -74,130 +71,6 @@
 
 ---
 
-## 🌟 Projets Phares
-
-<table>
-<tr>
-<td width="50%">
-
-### 📱 [Stokna](https://github.com/massinissacha03) - Gestion Commerciale
-**Flutter • SQLite • Provider • PDF**
-
-✨ Application mobile en production  
-📊 Dashboard analytique temps réel  
-🧾 Génération PDF & caisse intégrée  
-📍 Tournées GPS & notifications
-
-</td>
-<td width="50%">
-
-### 🏥 [VetDiag](https://github.com/massinissacha03) - IA Vétérinaire
-**Python • XGBoost • FastAPI • SHAP**
-
-🤖 Modèle ML 74% précision  
-🔍 Explicabilité SHAP  
-⚡ API FastAPI déployée  
-🎯 31 pathologies détectées
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏥 [VetDeFrance](https://github.com/massinissacha03) - Plateforme Vétérinaire
-**Flask • PostgreSQL • MVC**
-
-🔐 Auth multi-rôles (bcrypt)  
-📄 Génération PDF automatique  
-💼 Dashboard professionnel  
-🏗️ Architecture MVC clean
-
-</td>
-<td width="50%">
-
-### 🎮 [Histoday](https://github.com/massinissacha03) - Quiz Historique
-**Flutter • Firebase • Bloc/Cubit • Groq AI**
-
-🎯 Multijoueur temps réel  
-💬 Chat IA avec personnages historiques  
-🏆 Classement global  
-🔥 Architecture Clean + GetIt
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌤️ [WeatherLens](https://github.com/massinissacha03) - Analyse Climatique
-**React • Node.js • NASA POWER API**
-
-🛰️ Données satellites 30+ ans  
-📈 Prédictions météo ML  
-🗺️ Carte interactive Leaflet  
-📊 Export CSV/JSON
-
-</td>
-<td width="50%">
-
-### 🔧 Autres Projets
-- **TPC Compiler** - Générateur assembleur x86-64
-- **Floyd-Warshall MPI** - Algo parallèle C++
-- **GraphQL Lab** - Flask/Graphene
-- **Explorez Votre Ville** - Flutter/OpenStreetMap
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Expérience Professionnelle
-
-### 🏢 JCDecaux - Stage Développeur Full-Stack
-**Été 2025 (3 mois) | Paris** • `Spring Boot` `Angular`
-
-- 🔧 Développement d'APIs REST Spring Boot et interfaces Angular
-- 🐛 Correction de bugs et optimisation des performances
-- 👥 Méthodologies Agile/Scrum en équipe de développement
-- 📝 Participation aux revues de code
-
----
-
-## 🎓 Formation
-
-### 🎯 Master 1 ARIAS - Université d'Orléans *(en cours)*
-**Applications Réparties, Intelligence Artificielle et Sécurité**
-
-- ⚡ Programmation parallèle (MPI, OpenMP, vectorisation)
-- 🤖 Intelligence Artificielle & Machine Learning
-- 🔐 Cryptographie et sécurité informatique
-- 🌐 Web APIs (REST, OpenAPI, GraphQL)
-- 🧪 Test logiciel et méthodes formelles
-
-### 🎓 Licence Informatique - Université Gustave Eiffel *(2025)*
-- 📚 Algorithmique, structures de données, POO
-- 🌐 Développement web full-stack
-- 💾 Bases de données relationnelles (SQL)
-- 🤝 Méthodologies Agile, Git, Linux
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-  
-![Massinissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=massinissacha03&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massinissacha03&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=massinissacha03&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🌍 Langues
 
 - 🇫🇷 **Français** - Bilingue
@@ -222,10 +95,7 @@
 
 <div align="center">
 
-### 💡 **
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=massinissacha03.massinissacha03)
-[![Profile Views](https://komarev.com/ghpvc/?username=massinissacha03&color=blueviolet&style=flat-square)](https://github.com/massinissacha03)
+### 💡 *"Code with passion, build with purpose"*
 
 ⭐ N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration !
 
