@@ -85,8 +85,7 @@
 
 <div align="center">
 
-### 💡 *"Code with passion, build with purpose"*
 
-⭐ N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration !
+**⭐ N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration !**
 
 </div>
