@@ -14,15 +14,6 @@
 
 ---
 
-## 🚀 À propos de moi
-
-Étudiant passionné en **Master Informatique – ARIAS (Applications Réparties, Intelligence Artificielle et Sécurité)** à l'Université d'Orléans, je conçois des solutions fiables et élégantes — du **mobile** au **web** jusqu'aux **backends**.
-
-- 🔭 Actuellement en M1 ARIAS avec un intérêt marqué pour la **data** (pipelines, APIs, analyse)
-- 🌱 J'apprends actuellement **dbt**, **Snowflake**, **Vue.js**, **Django**
-- ⚡ Passionné par le développement full-stack et l'IA
-
----
 
 ## 💻 Stack Technique
 
@@ -87,7 +78,6 @@
 [![Email](https://img.shields.io/badge/Email-massinissa.chabane@outlook.com-0EA5E9?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:massinissa.chabane@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Massinissa_Chabane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massinissa-chabane19)
 [![Portfolio](https://img.shields.io/badge/Portfolio-massinissa--c.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.massinissa-c.dev/)
-[![Téléphone](https://img.shields.io/badge/Téléphone-06_56_66_69_55-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+33656666955)
 
 </div>
 
