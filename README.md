@@ -1,104 +1,232 @@
 <div align="center">
 
+# 👋 Salut, je suis Massinissa Chabane
 
+<img src="https://github.com/massinissacha03.png?size=180" width="180" height="180" style="border-radius: 50%;" alt="Massinissa Chabane"/>
 
-<svg width="180" height="180" viewBox="0 0 180 180" aria-label="Avatar Massinissa">
-  <defs>
-    <clipPath id="avatarMask">
-      <circle cx="90" cy="90" r="90"/>
-    </clipPath>
-  </defs>
-  <image
-    href="https://github.com/massinissacha03.png?size=180"
-    width="180" height="180"
-    clip-path="url(#avatarMask)"
-  />
-</svg>
+### 🎓 Étudiant en Master Informatique – ARIAS (Orléans)
+### 💼 À la recherche d'une alternance M2 (Septembre 2026)
 
-
-<h2>Bonjour, je suis <b>Massinissa</b></h2>
-
-<a href="mailto:massinissa.chabane@outlook.com">
-  <img src="https://img.shields.io/badge/Me%20contacter-0EA5E9?style=for-the-badge&logo=minutemailer&logoColor=white" />
-</a>
-<a href="https://github.com/massinissacha03">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/massinissa-chabane19">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://massinissa-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-massinissa.chabane@outlook.com-0EA5E9?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:massinissa.chabane@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-massinissa--chabane19-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massinissa-chabane19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-massinissa--c.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.massinissa-c.dev/)
 
 </div>
 
 ---
 
-## À propos
+## 🚀 À propos de moi
 
-Étudiant en **Master Informatique – ARIAS (Orléans)**, je conçois des solutions fiables et élégantes — du **mobile** au **web** jusqu’aux **backends**.  
-Intérêt marqué pour la **data** (pipelines, APIs, analyse). Ouvert aux opportunités en **alternance**.
+Étudiant passionné en **Master Informatique – ARIAS (Applications Réparties, Intelligence Artificielle et Sécurité)** à l'Université d'Orléans, je conçois des solutions fiables et élégantes — du **mobile** au **web** jusqu'aux **backends**.
+
+- 🔭 Actuellement en M1 ARIAS avec un intérêt marqué pour la **data** (pipelines, APIs, analyse)
+- 💼 Stage chez **JCDecaux** (Été 2025) - Développement full-stack Spring Boot & Angular
+- 🌱 J'apprends actuellement **dbt**, **Snowflake**, **Vue.js**, **Django**
+- 🎯 Objectif : Alternance M2 en développement ou data engineering (Sept. 2026)
+- 💡 Projets en production : **Stokna** (app Flutter commerciale)
 
 ---
 
-## Outils & Langages
+## 💻 Stack Technique
 
-<summary><b>Langages</b></summary>
-
+### 🎨 Langages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-<summary><b>Frontend</b></summary>
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+### 🎨 Frontend & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### ⚙️ Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
-<summary><b>Backend & IA</b></summary>
-
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 📊 Data & IA
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
-
-<summary><b>Outils & autres</b></summary>
-
+### 🛠️ DevOps & Outils
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Swagger/OpenAPI](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-F05A66?style=for-the-badge&logo=n8n&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white)
-![Bison](https://img.shields.io/badge/Bison-6E4C13?style=for-the-badge)
-
-
-<summary><b>J’apprends / j’approfondis</b></summary>
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+### 🏗️ Architecture & Méthodologies
+`REST API` • `GraphQL` • `POO` • `SOLID` • `Design Patterns` • `MVC` • `Clean Architecture` • `Agile/Scrum` • `TDD` • `MPI/OpenMP`
 
+---
+
+## 🌟 Projets Phares
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 [Stokna](https://github.com/massinissacha03) - Gestion Commerciale
+**Flutter • SQLite • Provider • PDF**
+
+✨ Application mobile en production  
+📊 Dashboard analytique temps réel  
+🧾 Génération PDF & caisse intégrée  
+📍 Tournées GPS & notifications
+
+</td>
+<td width="50%">
+
+### 🏥 [VetDiag](https://github.com/massinissacha03) - IA Vétérinaire
+**Python • XGBoost • FastAPI • SHAP**
+
+🤖 Modèle ML 74% précision  
+🔍 Explicabilité SHAP  
+⚡ API FastAPI déployée  
+🎯 31 pathologies détectées
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏥 [VetDeFrance](https://github.com/massinissacha03) - Plateforme Vétérinaire
+**Flask • PostgreSQL • MVC**
+
+🔐 Auth multi-rôles (bcrypt)  
+📄 Génération PDF automatique  
+💼 Dashboard professionnel  
+🏗️ Architecture MVC clean
+
+</td>
+<td width="50%">
+
+### 🎮 [Histoday](https://github.com/massinissacha03) - Quiz Historique
+**Flutter • Firebase • Bloc/Cubit • Groq AI**
+
+🎯 Multijoueur temps réel  
+💬 Chat IA avec personnages historiques  
+🏆 Classement global  
+🔥 Architecture Clean + GetIt
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌤️ [WeatherLens](https://github.com/massinissacha03) - Analyse Climatique
+**React • Node.js • NASA POWER API**
+
+🛰️ Données satellites 30+ ans  
+📈 Prédictions météo ML  
+🗺️ Carte interactive Leaflet  
+📊 Export CSV/JSON
+
+</td>
+<td width="50%">
+
+### 🔧 Autres Projets
+- **TPC Compiler** - Générateur assembleur x86-64
+- **Floyd-Warshall MPI** - Algo parallèle C++
+- **GraphQL Lab** - Flask/Graphene
+- **Explorez Votre Ville** - Flutter/OpenStreetMap
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Expérience Professionnelle
+
+### 🏢 JCDecaux - Stage Développeur Full-Stack
+**Été 2025 (3 mois) | Paris** • `Spring Boot` `Angular`
+
+- 🔧 Développement d'APIs REST Spring Boot et interfaces Angular
+- 🐛 Correction de bugs et optimisation des performances
+- 👥 Méthodologies Agile/Scrum en équipe de développement
+- 📝 Participation aux revues de code
+
+---
+
+## 🎓 Formation
+
+### 🎯 Master 1 ARIAS - Université d'Orléans *(en cours)*
+**Applications Réparties, Intelligence Artificielle et Sécurité**
+
+- ⚡ Programmation parallèle (MPI, OpenMP, vectorisation)
+- 🤖 Intelligence Artificielle & Machine Learning
+- 🔐 Cryptographie et sécurité informatique
+- 🌐 Web APIs (REST, OpenAPI, GraphQL)
+- 🧪 Test logiciel et méthodes formelles
+
+### 🎓 Licence Informatique - Université Gustave Eiffel *(2025)*
+- 📚 Algorithmique, structures de données, POO
+- 🌐 Développement web full-stack
+- 💾 Bases de données relationnelles (SQL)
+- 🤝 Méthodologies Agile, Git, Linux
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  
+![Massinissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=massinissacha03&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massinissacha03&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=massinissacha03&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🌍 Langues
+
+- 🇫🇷 **Français** - Bilingue
+- 🇬🇧 **Anglais** - B2
+- 🇩🇿 **Arabe** - Bilingue
+- 🇩🇿 **Kabyle** - Langue maternelle
+
+---
+
+## 📫 Me contacter
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-massinissa.chabane@outlook.com-0EA5E9?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:massinissa.chabane@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Massinissa_Chabane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massinissa-chabane19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-massinissa--c.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.massinissa-c.dev/)
+[![Téléphone](https://img.shields.io/badge/Téléphone-06_56_66_69_55-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+33656666955)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 **
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=massinissacha03.massinissacha03)
+[![Profile Views](https://komarev.com/ghpvc/?username=massinissacha03&color=blueviolet&style=flat-square)](https://github.com/massinissacha03)
+
+⭐ N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration !
+
+</div>
